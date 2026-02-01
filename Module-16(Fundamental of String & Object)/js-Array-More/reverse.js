@@ -14,4 +14,4 @@ for (const num of numbers){
     rev_numbers.unshift(num);
 
 }
-console.log('Array reverse another way='rev_numbers);
+console.log('Array reverse another way=',rev_numbers);
